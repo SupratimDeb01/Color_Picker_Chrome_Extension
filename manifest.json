@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker",
+    "description":"This extension will allow you to pick multiple color from the browser and also will give you an option to download the color codes in the form of a text file.",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "512":"color-picker_8589940.png"
+    }
+}
